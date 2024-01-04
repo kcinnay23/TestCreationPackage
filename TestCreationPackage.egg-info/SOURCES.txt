@@ -1,0 +1,14 @@
+LICENSE
+README.md
+setup.py
+TestCreationPackage.egg-info/PKG-INFO
+TestCreationPackage.egg-info/SOURCES.txt
+TestCreationPackage.egg-info/dependency_links.txt
+TestCreationPackage.egg-info/requires.txt
+TestCreationPackage.egg-info/top_level.txt
+YannPackage/__init__.py
+YannPackage/base.py
+YannPackage/dense.py
+YannPackage/loss.py
+YannPackage/model.py
+YannPackage/sigmoid.py
